@@ -1,0 +1,5 @@
+.pytest_cache/
+workspace/
+backup/
+*_log.txt
+__pycache__/

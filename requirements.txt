@@ -1,0 +1,5 @@
+black==24.1.1
+openai==1.11.1
+aiofiles==23.2.1
+pytest==8.0.0
+pylint==3.0.3
